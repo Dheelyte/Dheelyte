@@ -12,7 +12,7 @@
 <br>
 <h2 align="left">Languages and Tools:</h2>
 <a href="https://twitter.com/DelightGbolahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" alt="Delight on Twitter" width="50" /></a>
-<a href="https://linkedin.com/in/delight-olu-olagbuji-84051b193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Framework/django.svg" alt="Delight on LinkedIn" width="50" /></a>
+<a href="https://linkedin.com/in/delight-olu-olagbuji-84051b193" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Delight on LinkedIn" width="50" /></a>
 <a href="https://twitter.com/DelightGbolahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="Delight on Twitter" width="50" /></a>
 <a href="https://twitter.com/DelightGbolahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" alt="Delight on Twitter" width="50" /></a>
 <a href="https://twitter.com/DelightGbolahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg" alt="Delight on Twitter" width="50" /></a>
