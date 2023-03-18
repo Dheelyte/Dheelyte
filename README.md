@@ -17,9 +17,9 @@
 <a href="https://twitter.com/DelightGbolahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/html.svg" alt="Delight on Twitter" width="50" /></a>
 <a href="https://twitter.com/DelightGbolahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/FrontendDevelopment/css.svg" alt="Delight on Twitter" width="50" /></a>
 <a href="https://twitter.com/DelightGbolahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Database/postgresql.svg" alt="Delight on Twitter" width="50" /></a>
-<a href="https://twitter.com/DelightGbolahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/nginx.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://twitter.com/DelightGbolahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://twitter.com/DelightGbolahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://twitter.com/DelightGbolahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/nginx.svg" alt="mysql" width="50"/></a>
+<a href="https://twitter.com/DelightGbolahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50"/></a>
+<a href="https://twitter.com/DelightGbolahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50"/> </a>
 <a href="https://twitter.com/DelightGbolahan" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Delight on Twitter" width="50" /></a>
 
 
