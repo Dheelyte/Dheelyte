@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Delight</h1>
-<h3 align="center">A Software Engineer driven by the will to innovate</h3>
+<p align="center">A Software Engineer driven by the will to innovate</p>
+
+<h2 align="left">Highlights:</h2>
 
 - I am proficient in **Python, Django, JavaScript, HTML, CSS, PostgreSQL, MySQL, Nginx, Linux and Git**
 
