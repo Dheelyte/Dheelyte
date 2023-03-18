@@ -1,15 +1,16 @@
 <h1 align="center">Hi, I'm Delight</h1>
 <p align="center">A Software Engineer driven by the will to innovate</p>
 
+<br>
 <h2 align="left">Highlights:</h2>
 
-- I am proficient in **Python, Django, JavaScript, HTML, CSS, PostgreSQL, MySQL, Nginx, Linux and Git**
+- I have proficient experience in **Python, Django, JavaScript, HTML, CSS, PostgreSQL, MySQL, Nginx, Linux and Git.**
+
+- I am a student in the [ALX Software Engineering Program](https://www.alxafrica.com/software-engineering-2022/)
+
+- I am currenly looking for and **internship** opportunities and project collaborations.
 
 - You can reach me via **olagbujidelight@gmail.com**
-
-- I am currently a student in the [ALX Software Engineering Program](https://www.alxafrica.com/software-engineering-2022/)
-
-- I am looking for project and **internship** opportunities
 
 <br>
 <h2 align="left">Languages and Tools:</h2>
