@@ -6,9 +6,9 @@
 
 - I have proficient experience in **Python, Django, JavaScript, HTML, CSS, PostgreSQL, MySQL, Nginx, Linux and Git.**
 
-- I am a student in the [ALX Software Engineering Program](https://www.alxafrica.com/software-engineering-2022/)
+- I am currenly looking for **internship** opportunities and project collaborations.
 
-- I am currenly looking for and **internship** opportunities and project collaborations.
+- I am a student in the [ALX Software Engineering Program](https://www.alxafrica.com/software-engineering-2022/)
 
 - You can reach me via **olagbujidelight@gmail.com**
 
