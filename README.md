@@ -1,16 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=134155&center=true&width=435&lines=Hi%2C+I'm+Delight;A+Software+Engineer%2FTechnical+Writer)](https://git.io/typing-svg)
-<p align="center">A Software Engineer driven by the will to innovate</p>
+<h1 align="center">Hi, I'm Delight</h1>
+<p align="center">A Software Engineer and Technical Writer</p>
 
 <br>
 <h2 align="left">Highlights:</h2>
 
-- I have proficient experience in **Python, Django, JavaScript, HTML, CSS, PostgreSQL, MySQL, Nginx, Linux and Git.**
+- I have proficient experience in **Python, Django, JavaScript, HTML, CSS, AWS, PostgreSQL, MySQL, Nginx, Linux and Git.**
 
 - I am currenly looking for **internship** opportunities and project collaborations.
 
-- I am a student in the [ALX Software Engineering Program](https://www.alxafrica.com/software-engineering-2022/)
+- I am in the [ALX Software Engineering Program](https://www.alxafrica.com/software-engineering-2022/)
 
-- You can reach me via **olagbujidelight@gmail.com**
+- I document my Technical knowledge and Experiences on **[my Blog](https://delighto.hashnode.dev)**
+
+- You can reach me via **[Email](mailto:olagbujidelight@gmail.com), [LinkedIn](https://linkedin.com/in/delight-olu-olagbuji-84051b193), [Twitter](https://twitter.com/DelightGbolahan)**
 
 <br>
 <h2 align="left">Proficient in:</h2>
@@ -31,3 +33,4 @@
 <a href="https://twitter.com/DelightGbolahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Delight on Twitter" width="50" /></a>
 <a href="https://linkedin.com/in/delight-olu-olagbuji-84051b193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Delight on LinkedIn" width="50" height="40" /></a>
 <a href="mailto:olagbujidelight@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png?20221017173631" alt="Delight on LinkedIn" width="50" /></a>
+<a href="delighto.hashnode.dev" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png?auto=compress" alt="Delight on LinkedIn" width="50" /></a>
