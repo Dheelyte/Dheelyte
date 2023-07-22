@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Delight</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=134155&center=true&width=435&lines=Hi%2C+I'm+Delight;A+Software+Engineer%2FTechnical+Writer)](https://git.io/typing-svg)
 <p align="center">A Software Engineer driven by the will to innovate</p>
 
 <br>
