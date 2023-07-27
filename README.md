@@ -25,7 +25,7 @@
 <a href="https://www.nginx.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/BackendDevelopment/nginx.svg" alt="mysql" width="50"/></a>
 <a href="https://www.mysql.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50"/></a>
 <a href="https://www.linux.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50"/> </a>
-<a href="https://twitter.com/DelightGbolahan" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Delight on Twitter" width="50" /></a>
+<a href="https://git-scm.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Delight on Twitter" width="50" /></a>
 
 
 <br><br>
