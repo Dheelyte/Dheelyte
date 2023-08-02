@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Delight</h1>
-<p align="center">A Software Engineer and Technical Writer</p>
+<img align="center" src="https://github.com/Dheelyte/Dheelyte/blob/main/Github%20header-min.png?raw=true" alt="Delight on Twitter" width="100%" />
 
 <br>
 <h2 align="left">Highlights:</h2>
