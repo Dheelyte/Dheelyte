@@ -3,11 +3,9 @@
 <br>
 <h2 align="left">Highlights:</h2>
 
-- I have proficient experience in **Python, Django, JavaScript, HTML, CSS, AWS, PostgreSQL, MySQL, Nginx, Linux and Git.**
+- I have proficient experience in **Python, Django, JavaScript, React, HTML, CSS, PostgreSQL, MySQL, AWS, Nginx, Linux and Git.**
 
-- I am currenly looking for **internship** opportunities and project collaborations.
-
-- I am in the [ALX Software Engineering Program](https://www.alxafrica.com/software-engineering-2022/)
+- I am currenly open to **Software Engineering** roles, contracts and project collaborations.
 
 - I document my Technical knowledge and Experiences on **[my Blog](https://delighto.hashnode.dev)**
 
