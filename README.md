@@ -9,6 +9,8 @@
 
 - I document my Technical knowledge and Experiences on **[my Blog](https://delighto.hashnode.dev)**
 
+- I currently write for **Python In Plain English** publication on Medium.
+
 - You can reach me via **[Email](mailto:olagbujidelight@gmail.com), [LinkedIn](https://linkedin.com/in/delight-olu-olagbuji-84051b193), [Twitter](https://twitter.com/DelightGbolahan)**
 
 <br>
