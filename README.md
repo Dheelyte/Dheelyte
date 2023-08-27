@@ -1,15 +1,13 @@
 <img align="center" src="https://github.com/Dheelyte/Dheelyte/blob/main/Github%20header-min.png?raw=true" alt="Delight on Twitter" width="100%" />
 
 <br>
-<h2 align="left">Highlights:</h2>
+<h2 align="left">Overview:</h2>
 
 - I have proficient experience in **Python, Django, JavaScript, React, HTML, CSS, PostgreSQL, MySQL, AWS, Nginx, Linux and Git.**
 
 - I am currenly open to **Software Engineering** roles, contracts and project collaborations.
 
-- I document my Technical knowledge and Experiences on **[my Blog](https://delighto.hashnode.dev)**
-
-- I currently write for **Python In Plain English** publication on Medium.
+- I document my Technical knowledge and experiences on **[Python In Plain English](https://python.plainenglish.io)** publication and **[my Blog](https://delighto.hashnode.dev)**
 
 - You can reach me via **[Email](mailto:olagbujidelight@gmail.com), [LinkedIn](https://linkedin.com/in/delight-olu-olagbuji-84051b193), [Twitter](https://twitter.com/DelightGbolahan)**
 
