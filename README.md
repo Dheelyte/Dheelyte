@@ -22,6 +22,7 @@
 
 - [Introduction To Linux: Shell Navigation & Permissions](https://delighto.medium.com/introduction-to-linux-shell-navigation-permissions-968362aac6b9)
 
+- [The Beginner's Guide to Git & GitHub](https://delighto.hashnode.dev/git-github-beginner-advanced-guide)
 <br>
 <h2 align="left">Proficient in:</h2>
 <a href="https://www.python.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/ProgrammingLanguages/python.svg" alt="Delight on Twitter" width="50" /></a>
