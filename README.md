@@ -40,9 +40,10 @@
 <a href="https://www.mysql.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50"/></a>
 <a href="https://www.linux.org/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50"/> </a>
 <a href="https://git-scm.com/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Delight on Twitter" width="50" /></a>
-
-
 <br><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dheelyte&layout=compact&hide_progress=true)](https://github.com/Dheelyte)
+
 <h2 align="left">Connect with me:</h2>
 <a href="https://twitter.com/DelightGbolahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Delight on Twitter" width="50" /></a>
 <a href="https://linkedin.com/in/delight-olu-olagbuji-84051b193" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Delight on LinkedIn" width="50" height="40" /></a>
