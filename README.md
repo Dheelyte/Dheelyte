@@ -5,13 +5,13 @@
 
 - I have proficient experience in **Python, Django, JavaScript, React, HTML, CSS, PostgreSQL, MySQL, AWS, Nginx, Linux and Git.**
 
+- I document my Technical knowledge and experiences on **[my Blog](https://delighto.medium.com)**
+
 - I am currenly open to **Software Engineering** roles, contracts and project collaborations.
 
-- I document my Technical knowledge and experiences on **[Python In Plain English](https://python.plainenglish.io)** publication and **[my Blog](https://delighto.hashnode.dev)**
+- Check out my **[portfolio website](https://delight-olagbuji.onrender.com)**.
 
-- Check out my **[portfolio website](https://delightolagbuji.tech)**.
-
-- You can reach me via **[Email](mailto:olagbujidelight@gmail.com), [LinkedIn](https://linkedin.com/in/delight-olu-olagbuji-84051b193), [Twitter](https://twitter.com/DelightGbolahan)**.
+- You can reach me via **[Email](mailto:olagbujidelight@gmail.com), [LinkedIn](https://www.linkedin.com/in/delight-olu-olagbuji-990b61314), [Twitter](https://twitter.com/DelightGbolahan)**.
 <br>
 
 ## My Latest Articles
