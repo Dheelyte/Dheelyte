@@ -3,7 +3,7 @@
 <br>
 <h2 align="left">Overview:</h2>
 
-- I have proficient experience in **Python, Django, JavaScript, React, HTML, CSS, PostgreSQL, MySQL, AWS, Nginx, Linux and Git.**
+- I have proficient experience in **Python, Django, FastAPI, JavaScript, React, HTML, CSS, PostgreSQL, MySQL, AWS, Nginx, Linux and Git.**
 
 - I document my Technical knowledge and experiences on **[my Blog](https://delighto.medium.com)**
 
