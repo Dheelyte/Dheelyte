@@ -1,6 +1,6 @@
 ## Overview
 
-- I have proficient experience in **Python, Django, FastAPI, JavaScript, React, CSS, SQL, AWS, GCP, and Azure.**
+- I have proficient experience in **Python, JavaScript, Django, FastAPI, React, CSS, SQL, AWS, GCP, and Azure.**
 
 - I document my Technical knowledge and experiences on **[my Blog](https://delighto.medium.com)**
 
